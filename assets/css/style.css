@@ -278,13 +278,18 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     content: " ";
     top: 0;
     left:  0;
-    width: 109%;
+    width: 105%;
     height:  100%;
     background: rgba(31,44,108,.3);
 }
 .single-about-img img {
-    max-width: 500px;
-    height: 468px;
+
+    /* max-width: 550px; */
+    /* align-items: ; */
+    /* position: relative; */
+    right:20px ;
+    width: 600px;
+    height:550px;
 }
 .about-list-icon{
     display: flex;
